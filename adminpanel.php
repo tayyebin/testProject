@@ -11,3 +11,4 @@ if(! isset($_SESSION['uname'])){
 
 
 require_once 'views/adminpanel.view.php';
+?>
